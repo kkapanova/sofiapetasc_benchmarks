@@ -4,9 +4,8 @@ ALYA is a Computational Mechanics code. It solves different physics, each one wi
 ALYA is written in Fortran 90/95 and parallelized using MPI and OpenMP.
 
 - Web site: https://www.bsc.es/research-development/research-areas/engineering-simulations/alya-high-performance-computational
-- User documentation: https://gitlab.bsc.es/alya/alya/-/wikis/home
+- User documentation and instructions: https://gitlab.bsc.es/alya/alya/-/wikis/home
 - Code download: https://repository.prace-ri.eu/ueabs/ALYA/2.1/Alya.tar.gz 
-- Build and run instructions: https://github.com/macc-hpc/deucalion-benchmarks/blob/master/ALYA/README.md
 
 ## Test cases:
 
