@@ -1,6 +1,14 @@
 # ALYA
 
-The parameters used in the cases are generally a typical industrial runs to obtain representative speedup. For instance, no convergence to machine accuracy is achieved for the iterative solver, but just a percentage of the initial residual.
+ALYA is a Computational Mechanics code. It solves different physics, each one with its own modelization characteristics, in a coupled way. ALYA is used to solve incompressible/compressible flows, non-linear solid mechanics, chemistry, particle transport, heat transfer, turbulence modeling, electrical propagation, etc.
+ALYA is written in Fortran 90/95 and parallelized using MPI and OpenMP.
 
-The different cases are:
+- Web site: https://www.bsc.es/research-development/research-areas/engineering-simulations/alya-high-performance-computational
+- User documentation: https://gitlab.bsc.es/alya/alya/-/wikis/home
+- Code download: https://repository.prace-ri.eu/ueabs/ALYA/2.1/Alya.tar.gz 
+- Build and run instructions: https://github.com/macc-hpc/deucalion-benchmarks/blob/master/ALYA/README.md
 
+## Test cases:
+
+- Test Case A: https://repository.prace-ri.eu/ueabs/ALYA/2.1/TestCaseA.tar.gz 
+- Test Case B: https://repository.prace-ri.eu/ueabs/ALYA/2.1/TestCaseB.tar.gz 
