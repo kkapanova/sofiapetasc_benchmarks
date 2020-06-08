@@ -8,6 +8,6 @@ The instructions are primarility based on the [Unified European Applications Ben
 - [NAMD](#namd)
 - [Quantum Espresso](quantesp)
 - [ALYA](#alya)
-- [SPECFEM3D](#specfem3d)
+- [OPENFOAM](#openfoam)
 
 
