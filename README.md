@@ -14,3 +14,6 @@ Within document [D7.5 Evaluation of Accelerated and Non-accelerated Benchmarks](
 
 ## Test Cases
 Every benchmark application code within the Unified European Applications Benchmark Suit ha seither one or two input files. In a presence of two input files, Test Case A is specifically created to run on Tier-1 systems (with a little bit over 1000 x86 cores), while Test Case B is created for benchmarking Tier-0 systems (with over 10000 x86 cores). When only test case A is present, then it is suitable for both Tier-1 and Tier-0 systems.
+
+## Application Versions
+It is allowed to use newer versions of the applications, if such have become available during the process.
