@@ -22,7 +22,6 @@ It is allowed to use newer versions of the applications, if such have become ava
 | Application Benchmark  | Metric  | 
 |---|---|
 | ALYA |	seconds (-) |
-| NAMD |	seconds (-) |
+| NAMD |	sns/day (+) |
 | GROMACS | ns/day (+) |
-| Quantum Espresso | seconds (-) |
 | SPECFEM3D | seconds (-) |
