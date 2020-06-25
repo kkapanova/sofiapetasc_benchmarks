@@ -21,7 +21,6 @@ It is allowed to use newer versions of the applications, if such have become ava
 # Metrics
 | Application Benchmark  | | Metric  | 
 |---|---|---|
-
 | ALYA | |	seconds (-) |
 | NAMD | |	seconds (-) |
 | GROMACS | | ns/day (+) |
