@@ -38,3 +38,11 @@ It is allowed to use newer versions of the applications, if such have become ava
 
 # HPL
 - Code: http://www.netlib.org/benchmark/hpl/
+
+# HPCG
+- Code: https://github.com/hpcg-benchmark/hpcg
+
+# Graph500
+- Code: https://graph500.org/?page_id=47
+- Description: https://graph500.org/?page_id=12
+
