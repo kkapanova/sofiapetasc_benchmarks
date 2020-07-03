@@ -9,7 +9,6 @@ The instructions are primarility based on the [Unified European Applications Ben
 - [Quantum Espresso](quantesp)
 - [ALYA](#alya)
 - [SPECFEM3D](#SPECFEM3D)
-- [Synthetic Tests based on HPCC](#HPCC)
 
 Within document [D7.5 Evaluation of Accelerated and Non-accelerated Benchmarks](https://prace-ri.eu/wp-content/uploads/5IP-D7.5.pdf) by PRACE-5IP, PRACE Fifth Implementation Phase Project a large variety of test cases and information can be found to help with the benchmarks.
 
@@ -34,7 +33,7 @@ It is allowed to use newer versions of the applications, if such have become ava
 - [High Performance Linpack (HPL) benchmark](#HPL)
 - [Graph500 benchmarks](Graph500)
 - [Communication bandwidth and latency(this should be for multiflow benchmarks)](#Bandwidth)
-- [STREAM](Memory)
+- [Memory bandwidth benchmark: STREAM](Memory)
 
 
 # HPL
@@ -47,7 +46,7 @@ It is allowed to use newer versions of the applications, if such have become ava
 - Code: https://graph500.org/?page_id=47
 - Description: https://graph500.org/?page_id=12
 
-# Memory bandwidth benchmark
-STREAM - a simple synthetic benchmark program that measures sustainable memory bandwidth (in GB/s) and the corresponding computation rate for simple vector kernel.
+# STREAM - Memory bandwidth benchmark
+A simple synthetic benchmark program that measures sustainable memory bandwidth (in GB/s) and the corresponding computation rate for simple vector kernel.
 - Code: https://github.com/jeffhammond/STREAM
 
