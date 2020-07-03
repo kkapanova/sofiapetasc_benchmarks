@@ -26,3 +26,11 @@ It is allowed to use newer versions of the applications, if such have become ava
 | NAMD |	ns/day (+) |
 | GROMACS | ns/day (+) |
 | SPECFEM3D | seconds (-) |
+
+
+# Part of the Synthetic Benchmarks for Sofiapetasc Supercomputer
+
+- [High Performance Conjugate Gradient (HPCG) benchmark](#HPCG)
+- [High Performance Linpack (HPL) benchmark](#HPL)
+- [Graph500 benchmarks](Graph500)
+- [Communication bandwidth and latency(this should be for multiflow benchmarks)](#Bandwidth)
