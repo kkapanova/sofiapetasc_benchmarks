@@ -27,13 +27,13 @@ It is allowed to use newer versions of the applications, if such have become ava
 | SPECFEM3D | seconds (-) |
 
 
-# Part of the Synthetic Benchmarks for Sofiapetasc Supercomputer
+# Synthetic Benchmarks for Sofiapetasc Supercomputer
 
 - [High Performance Conjugate Gradient (HPCG) benchmark](#HPCG)
 - [High Performance Linpack (HPL) benchmark](#HPL)
 - [Graph500 benchmarks](Graph500)
 - [Communication bandwidth and latency(this should be for multiflow benchmarks)](#Bandwidth)
-- [Memory bandwidth benchmark: STREAM](Memory)
+- [STREAM: Memory bandwidth benchmark](Memory)
 
 
 # HPL
