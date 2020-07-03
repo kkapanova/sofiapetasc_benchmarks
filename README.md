@@ -34,6 +34,7 @@ It is allowed to use newer versions of the applications, if such have become ava
 - [High Performance Linpack (HPL) benchmark](#HPL)
 - [Graph500 benchmarks](Graph500)
 - [Communication bandwidth and latency(this should be for multiflow benchmarks)](#Bandwidth)
+- [STREAM](Memory)
 
 
 # HPL
@@ -45,4 +46,8 @@ It is allowed to use newer versions of the applications, if such have become ava
 # Graph500
 - Code: https://graph500.org/?page_id=47
 - Description: https://graph500.org/?page_id=12
+
+# Memory bandwidth benchmark
+STREAM - a simple synthetic benchmark program that measures sustainable memory bandwidth (in GB/s) and the corresponding computation rate for simple vector kernel.
+- Code: https://github.com/jeffhammond/STREAM
 
