@@ -25,7 +25,7 @@ It is allowed to use newer versions of the applications, if such have become ava
 | NAMD |	ns/day (+) |
 | GROMACS | ns/day (+) |
 | SPECFEM3D | seconds (-) |
-| Quantum Espresso | seconds (-) |
+| Quantum Espresso | ns/day (+) |
 
 
 # Synthetic Benchmarks for Sofiapetasc Supercomputer
